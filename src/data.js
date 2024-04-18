@@ -70,7 +70,7 @@ export const values = [
         id: 1,
         icon: <SiOpenaigym/>,
         title: "Versatility",
-        desc: "we are adaptable to various environments."
+        desc: "we are adaptable to various environments including coastal regions, rivers etc"
     },
     {
         id: 2,
