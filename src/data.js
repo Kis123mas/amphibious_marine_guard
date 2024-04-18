@@ -187,55 +187,35 @@ export const testimonials = [
 
 
 
-const Trainer1 = require('./images/trainer1.jpg')
-const Trainer2 = require('./images/trainer2.jpg')
-const Trainer3 = require('./images/trainer3.jpg')
-const Trainer4 = require('./images/trainer4.jpg')
-const Trainer5 = require('./images/trainer5.jpg')
-const Trainer6 = require('./images/trainer6.jpg')
-
-
-export const staff = [
+export const work = [
     {
         id: 1,
-        image: Trainer1,
-        name: 'John Doe',
-        job: 'Aerobic Trainer',
-        socials: ['https://instagram.com/', 'https://twitter.com/', 'https://facebook.com/', 'https://linkedin.com/']
+        title: "What are onshore and offshore surveillance services?",
+        desc: "Onshore surveillance services involve monitoring and protecting assets, facilities, or individuals within a specific geographic area on land, while offshore surveillance services extend this protection to maritime environments such as ports, offshore installations, or shipping lanes."
     },
     {
         id: 2,
-        image: Trainer2,
-        name: 'Daniel vinyo',
-        job: 'Speed Trainer',
-        socials: ['https://instagram.com/', 'https://twitter.com/', 'https://facebook.com/', 'https://linkedin.com/']
+        title: "What types of clients typically require onshore and offshore surveillance services?",
+        desc: "Clients can vary from government agencies, private corporations, shipping companies, oil and gas operators, to maritime ports and facilities seeking to safeguard their assets, infrastructure, and personnel from security threats."
     },
     {
         id: 3,
-        image: Trainer3,
-        name: 'Edem Quist',
-        job: 'Flexibility Trainer',
-        socials: ['https://instagram.com/', 'https://twitter.com/', 'https://facebook.com/', 'https://linkedin.com/']
+        title: "What are the benefits of employing onshore and offshore surveillance services?",
+        desc: "These services help deter criminal activities such as theft, vandalism, and unauthorized access, enhance safety and security protocols, provide real-time monitoring and response to incidents, and ensure compliance with regulatory requirements in both onshore and offshore environments."
     },
     {
         id: 4,
-        image: Trainer4,
-        name: 'Shatta Wale',
-        job: 'Body Composition Trainer',
-        socials: ['https://instagram.com/', 'https://twitter.com/', 'https://facebook.com/', 'https://linkedin.com/']
+        title: "What specific surveillance techniques are utilized in onshore and offshore environments?",
+        desc: "Surveillance techniques may include the use of CCTV systems, thermal imaging cameras, drones, satellite monitoring, motion sensors, access control systems, and manned security patrols tailored to the unique challenges of each environment."
     },
     {
         id: 5,
-        image: Trainer5,
-        name: 'Diana Ayi',
-        job: 'Circuit Trainer',
-        socials: ['https://instagram.com/', 'https://twitter.com/', 'https://facebook.com/', 'https://linkedin.com/']
+        title: "How does the company ensure confidentiality and data security in surveillance operations?",
+        desc: "Our company adheres to strict protocols and industry best practices to safeguard sensitive information collected during surveillance operations. This includes encrypted communication channels, restricted access to data, and compliance with relevant data protection regulations."
     },
     {
         id: 6,
-        image: Trainer6,
-        name: 'Wayne Carter',
-        job: 'Physical Intelligence Trainer',
-        socials: ['https://instagram.com/', 'https://twitter.com/', 'https://facebook.com/', 'https://linkedin.com/']
+        title: "How can I request a consultation or learn more about your onshore and offshore surveillance services?",
+        desc: "To learn more about our services or to request a consultation, please contact our team through our website, email, or phone. We would be happy to discuss your security needs and provide tailored solutions to meet your requirements."
     }
 ]
