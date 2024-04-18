@@ -69,26 +69,26 @@ export const values = [
     {
         id: 1,
         icon: <SiOpenaigym/>,
-        title: "Value One",
-        desc: "Placeat quidem facere dicta modi? Pariatur exercitationem illum."
+        title: "Versatility",
+        desc: "we are adaptable to various environments."
     },
     {
         id: 2,
         icon: <SiOpenaigym/>,
-        title: "Value Two",
-        desc: "Placeat quidem facere dicta modi? Pariatur exercitationem illum."
+        title: "Persistent Surveillance",
+        desc: "We have the capability to maintain continuous surveillance over an area of interest."
     },
     {
         id: 3,
         icon: <SiOpenaigym/>,
-        title: "Value Three",
-        desc: "Placeat quidem facere dicta modi? Pariatur exercitationem illum."
+        title: "Environmental Awareness",
+        desc: "We understand and mitigate the impact of environmental factors for mission success."
     },
     {
         id: 4,
         icon: <SiOpenaigym/>,
-        title: "Value Four",
-        desc: "Placeat quidem facere dicta modi? Pariatur exercitationem illum."
+        title: "Stealth",
+        desc: "We have the ability to conduct surveillance covertly is essential for gathering intelligence without alerting targets."
     }
 ]
 

@@ -16,7 +16,7 @@ const Values = () => {
                 <div className="values__right">
                     <SectionHead icon={<GiCutDiamond />} title='values' />
                     <p>
-                        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quidem nesciunt veritatis, quisquam eius mollitia iure. Soluta impedit iste rem obcaecati atque? Quo itaque, a dolorem qui quidem nam soluta earum.
+                        Amphibious surveillance also refers to the capability of conducting surveillance activities both on land and in water.
                     </p>
                     <div className="values__wrapper">
                         {
