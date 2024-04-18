@@ -8,7 +8,7 @@ const MainHeader = () => {
         <div className="main__header-left">
           <h4>WELCOME TO AMPHIBIOUS MARINE GUARD LTD.</h4>
           <h1>Amphibious Surveillance</h1>
-          <p>litle description of what the company.</p>
+          <p>We involve in the use of specialized equipment and technology to conduct surveillance and intelligence-gathering operations across both land and water environments.</p>
           <Link to='/contact' className='btn lg'>Reach Us</Link>
         </div>
         <div className="main__header-right">
