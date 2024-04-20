@@ -1,5 +1,5 @@
 import Header from '../../components/Header'
-import HeaderImage from '../../images/IMG-20240417-WA0027.jpg'
+import HeaderImage from '../../images/about_headers.jpg'
 import { MdEmail } from 'react-icons/md'
 import { FaFacebook } from 'react-icons/fa'
 import { AiOutlineTwitter } from 'react-icons/ai'

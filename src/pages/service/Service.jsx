@@ -1,5 +1,5 @@
 import Header from '../../components/Header'
-import HeaderImage from '../../images/IMG-20240417-WA0027.jpg'
+import HeaderImage from '../../images/service.jpg'
 import { work } from "../../data"
 import Work from "./Work"
 import './service.css'

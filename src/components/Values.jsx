@@ -1,5 +1,5 @@
 import { values } from '../data'
-import Image from '../images/values.jpg'
+import Image from '../images/valuess.jpg'
 import SectionHead from './SectionHead'
 import { GiCutDiamond } from 'react-icons/gi'
 import Card from '../UI/Card'
