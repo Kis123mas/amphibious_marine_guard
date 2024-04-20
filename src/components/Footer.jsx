@@ -2,7 +2,6 @@ import { Link } from 'react-router-dom'
 import Logo from '../images/logo.png'
 import { FaFacebook } from 'react-icons/fa'
 import { AiOutlineTwitter } from 'react-icons/ai'
-import { FaWhatsapp } from 'react-icons/fa'
 import { AiFillInstagram } from 'react-icons/ai'
 
 const Footer = () => {
@@ -15,10 +14,9 @@ const Footer = () => {
                     </Link>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde eius ipsum, corrupti ipsam sit dolor enim vitae facere doloribus? Vel expedita repellendus eum amet laboriosam cupiditate dolor maxime numquam iusto!</p>
                     <div className='footer__socials'>
-                        <a href='https://facebook.com' target='_blank' rel='noreferrer noopener'><FaFacebook/></a>
-                        <a href='https://facebook.com' target='_blank' rel='noreferrer noopener'><AiOutlineTwitter/></a>
-                        <a href='https://facebook.com' target='_blank' rel='noreferrer noopener'><FaWhatsapp/></a>
-                        <a href='https://facebook.com' target='_blank' rel='noreferrer noopener'><AiFillInstagram/></a>
+                        <a href='https://www.facebook.com/profile.php?id=61558337265320&mibextid=ZbWKwL' target='_blank' rel='noreferrer noopener'><FaFacebook/></a>
+                        <a href='https://x.com/Amphibious7334?t=sNbhs2c6BMhxzOz2jS_DGg&s=09' target='_blank' rel='noreferrer noopener'><AiOutlineTwitter/></a>
+                        <a href='https://www.instagram.com/amphibiousmarineguard9?igsh=bWs0MjFzZjMwZDBy' target='_blank' rel='noreferrer noopener'><AiFillInstagram/></a>
                     </div>
                 </article>
                 <article>
