@@ -22,7 +22,6 @@ const Contact = () => {
             {/* <a href='https://facebook.com' target='_blank' rel='noreferrer noopener'><FaWhatsapp /></a> */}
           </div>
           <div className="contact__wrapper">
-            {/* <a href='https://facebook.com' target='_blank' rel='noreferrer noopener'><FaWhatsapp /></a> */}
             <a href='https://www.instagram.com/amphibiousmarineguard9?igsh=bWs0MjFzZjMwZDBy' target='_blank' rel='noreferrer noopener'><AiFillInstagram /></a>
             <a href='https://www.youtube.com/@AmphibiousMarineGuard' target='_blank' rel='noreferrer noopener'><AiFillYoutube /></a>
             <a href='https://www.tiktok.com/@amphibious.marine?_t=8lgMt2q3MCT&_r=1' target='_blank' rel='noreferrer noopener'><RiTiktokFill /></a>

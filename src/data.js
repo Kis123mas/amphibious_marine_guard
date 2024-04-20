@@ -33,28 +33,28 @@ export const services = [
         icon: <SiOpenaigym/>,
         title: "Service One",
         info: "This is the day that the lord has made. We will rejoice!",
-        path: "/programs/111"
+        path: "/service"
     },
     {
         id: 2,
         icon: <SiOpenaigym/>,
         title: "Service Two",
         info: "This is the day that the lord has made. We will rejoice!",
-        path: "/programs/222"
+        path: "/service"
     },
     {
         id: 3,
         icon: <SiOpenaigym/>,
         title: "Service Three",
         info: "This is the day that the lord has made. We will rejoice!",
-        path: "/programs/333"
+        path: "/service"
     },
     {
         id: 4,
         icon: <SiOpenaigym/>,
         title: "Service Four",
         info: "This is the day that the lord has made. We will rejoice!",
-        path: "/programs/444"
+        path: "/service"
     }
 ]
 
