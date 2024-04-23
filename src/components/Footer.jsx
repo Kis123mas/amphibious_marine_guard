@@ -12,7 +12,7 @@ const Footer = () => {
                     <Link to='/' className='logo'>
                         <img src={Logo} alt='Footer Logo' />
                     </Link>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde eius ipsum, corrupti ipsam sit dolor enim vitae facere doloribus? Vel expedita repellendus eum amet laboriosam cupiditate dolor maxime numquam iusto!</p>
+                    <p>We involve in the use of specialized equipment and technology to conduct surveillance and intelligence-gathering operations across both land and water environments.</p>
                     <div className='footer__socials'>
                         <a href='https://www.facebook.com/profile.php?id=61558337265320&mibextid=ZbWKwL' target='_blank' rel='noreferrer noopener'><FaFacebook/></a>
                         <a href='https://x.com/Amphibious7334?t=sNbhs2c6BMhxzOz2jS_DGg&s=09' target='_blank' rel='noreferrer noopener'><AiOutlineTwitter/></a>

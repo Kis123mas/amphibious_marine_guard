@@ -31,29 +31,29 @@ export const services = [
     {
         id: 1,
         icon: <SiOpenaigym/>,
-        title: "Service One",
-        info: "This is the day that the lord has made. We will rejoice!",
+        title: "Security Consultation",
+        info: "Offering expert advice and assessment on security measures tailored to the specific needs and challenges of clients.",
         path: "/service"
     },
     {
         id: 2,
         icon: <SiOpenaigym/>,
-        title: "Service Two",
-        info: "This is the day that the lord has made. We will rejoice!",
+        title: "Surveillance and Monitoring",
+        info: "Utilizing state-of-the-art technology and trained personnel to conduct comprehensive surveillance and monitoring operations aimed at detecting and preventing criminal activities.",
         path: "/service"
     },
     {
         id: 3,
         icon: <SiOpenaigym/>,
-        title: "Service Three",
-        info: "This is the day that the lord has made. We will rejoice!",
+        title: "Patrol and Response",
+        info: "Deploying highly skilled teams equipped with amphibious vehicles and specialized gear to patrol waterways, coastal areas, and rural regions, ensuring rapid response to security threats",
         path: "/service"
     },
     {
         id: 4,
         icon: <SiOpenaigym/>,
-        title: "Service Four",
-        info: "This is the day that the lord has made. We will rejoice!",
+        title: "Security Gadgets Sales",
+        info: "Offering a range of cutting-edge security gadgets and equipment, including surveillance cameras, drones, communication devices, and protective gear, to support the operations of other security agencies and private entities.",
         path: "/service"
     }
 ]
@@ -69,26 +69,26 @@ export const values = [
     {
         id: 1,
         icon: <SiOpenaigym/>,
-        title: "Versatility",
-        desc: "we are adaptable to various environments including coastal regions, rivers etc"
+        title: "Integrity",
+        desc: "Upholding honesty and ethical conduct in all operations."
     },
     {
         id: 2,
         icon: <SiOpenaigym/>,
-        title: "Persistent Surveillance",
-        desc: "We have the capability to maintain continuous surveillance over an area of interest."
+        title: "Collaboration",
+        desc: "Recognizing the power of collective action, fostering partnerships with local communitie."
     },
     {
         id: 3,
         icon: <SiOpenaigym/>,
-        title: "Environmental Awareness",
-        desc: "We understand and mitigate the impact of environmental factors for mission success."
+        title: "Innovation",
+        desc: "Embracing creativity and technological advancements to develop effective solution."
     },
     {
         id: 4,
         icon: <SiOpenaigym/>,
-        title: "Stealth",
-        desc: "We have the ability to conduct surveillance covertly is essential for gathering intelligence without alerting targets."
+        title: "Commitment",
+        desc: "Demonstrating unwavering dedication to the safety and well-being of the Niger Delta region and beyond."
     }
 ]
 
@@ -190,32 +190,37 @@ export const testimonials = [
 export const work = [
     {
         id: 1,
-        title: "What are onshore and offshore surveillance services?",
-        desc: "Onshore surveillance services involve monitoring and protecting assets, facilities, or individuals within a specific geographic area on land, while offshore surveillance services extend this protection to maritime environments such as ports, offshore installations, or shipping lanes."
+        title: "Security Consultation",
+        desc: "Offering expert advice and assessment on security measures tailored to the specific needs and challenges of clients, including businesses, communities, and government agencies."
     },
     {
         id: 2,
-        title: "What types of clients typically require onshore and offshore surveillance services?",
-        desc: "Clients can vary from government agencies, private corporations, shipping companies, oil and gas operators, to maritime ports and facilities seeking to safeguard their assets, infrastructure, and personnel from security threats."
+        title: "Surveillance and Monitoring",
+        desc: "Utilizing state-of-the-art technology and trained personnel to conduct comprehensive surveillance and monitoring operations aimed at detecting and preventing criminal activities."
     },
     {
         id: 3,
-        title: "What are the benefits of employing onshore and offshore surveillance services?",
-        desc: "These services help deter criminal activities such as theft, vandalism, and unauthorized access, enhance safety and security protocols, provide real-time monitoring and response to incidents, and ensure compliance with regulatory requirements in both onshore and offshore environments."
+        title: "Patrol and Response",
+        desc: "Deploying highly skilled teams equipped with amphibious vehicles and specialized gear to patrol waterways, coastal areas, and rural regions, ensuring rapid response to security threats."
     },
     {
         id: 4,
-        title: "What specific surveillance techniques are utilized in onshore and offshore environments?",
-        desc: "Surveillance techniques may include the use of CCTV systems, thermal imaging cameras, drones, satellite monitoring, motion sensors, access control systems, and manned security patrols tailored to the unique challenges of each environment."
+        title: "Training and Capacity Building",
+        desc: "Providing training programs and capacity-building initiatives to enhance the skills and knowledge of security personnel, community members, and law enforcement agencies.."
     },
     {
         id: 5,
-        title: "How does the company ensure confidentiality and data security in surveillance operations?",
-        desc: "Our company adheres to strict protocols and industry best practices to safeguard sensitive information collected during surveillance operations. This includes encrypted communication channels, restricted access to data, and compliance with relevant data protection regulations."
+        title: "Security Gadgets Sales",
+        desc: "Offering a range of cutting-edge security gadgets and equipment, including surveillance cameras, drones, communication devices, and protective gear, to support the operations of other security agencies and private entities."
     },
     {
         id: 6,
-        title: "How can I request a consultation or learn more about your onshore and offshore surveillance services?",
-        desc: "To learn more about our services or to request a consultation, please contact our team through our website, email, or phone. We would be happy to discuss your security needs and provide tailored solutions to meet your requirements."
+        title: "Community Engagement",
+        desc: "Engaging with local communities through outreach programs, awareness campaigns, and partnership initiatives to foster cooperation, trust, and collaboration in tackling security challenges."
+    },
+    {
+        id: 7,
+        title: "Crisis Management",
+        desc: "Developing and implementing comprehensive crisis management plans to effectively respond to emergencies, natural disasters, and security incidents, minimizing risk and mitigating potential damages."
     }
 ]
