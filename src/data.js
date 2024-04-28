@@ -143,39 +143,25 @@ export const faqs = [
 export const testimonials = [
     {
         id: 1,
-        name: "Diana Ayi",
-        quote: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium ipsam facere ea a laboriosam sed? Quod vel voluptates a! Maxime minima cumque aut? In expedita numquam consectetur non officia iusto.",
-        job: "Student",
+        name: "Jude Tony",
+        quote: "I was skeptical at first, but after trying out there service, I was blown away by the results! It exceeded all my expectations and I couldn't be happier.",
+        job: "Business Man",
         // avatar: require("./images/avatar1.jpg")
     },
     {
         id: 2,
         name: "Daniel Vinyo",
-        quote: "Harum quaerat hic consequuntur molestias repellat ad quo tenetur vitae rem, labore quisquam? Atque, assumenda rerum this and that odit harum quaerat hic praesentium quisquam quae, enim iste ipsam id repellat.",
+        quote: "The customer service is top-notch! They were incredibly helpful and went above and beyond to ensure I had a positive experience. I highly recommend their services to anyone.",
         job: "Software Egineer",
         // avatar: require("./images/avatar2.jpg")
     },
     {
         id: 3,
         name: "Edem Quist",
-        quote: "Quaerat hic praesentium consequuntur molestias repellat ad quo tenetur vitae rem, labore quisquam? Atque, assumenda rerum odit harum quaerat hic praesentium quisquam quae, enim iste ipsam id repellat.",
+        quote: "This team delivered exceptional results. Their attention to detail and dedication were evident every step of the way.",
         job: "University Lecturer",
         // avatar: require("./images/avatar3.jpg")
     },
-    {
-        id: 4,
-        name: "Grace Lavoe",
-        quote: "Cupiditate deleniti sint consequuntur molestias repellat ad quo tenetur vitae rem, labore quisquam? Atque, assumenda rerum odit harum quaerat hic praesentium quisquam quae, enim iste ipsam id repellat.",
-        job: "Talking Parrot",
-        // avatar: require("./images/avatar4.jpg")
-    },
-    {
-        id: 5,
-        name: "Nana Yaa Dankwa",
-        quote: "Maxime minima cumque sit amet consectetur adipisicing elit. Praesentium ipsam facere ea a laboriosam sed? Quod vel voluptates a! Maxime minima cumque aut? In expedita numquam consectetur non officia iusto.",
-        job: "Pharmacist",
-        // avatar: require("./images/avatar5.jpg")
-    }
 ]
 
 
